@@ -9,10 +9,10 @@ animate(chars1, {
         { to: ['100%', '0%'] },
         { to: '-100%', delay: 4000, ease: 'in(3)' }
     ],
-    duration : 900,
-    ease : 'out(3)',
-    delay : stagger(88),
-    loop : true,
+    duration: 900,
+    ease: 'out(3)',
+    delay: stagger(88),
+    loop: true,
 });
 
 animate(chars2, {
@@ -20,14 +20,31 @@ animate(chars2, {
         { to: ['100%', '0%'] },
         { to: '-100%', delay: 4000, ease: 'in(3)' }
     ],
-    duration : 900,
-    ease : 'out(3)',
-    delay : stagger(88),
-    loop : true,
+    duration: 900,
+    ease: 'out(3)',
+    delay: stagger(88),
+    loop: true,
 });
 
 /*=============== SWIPER PROJECTS ===============*/
+const swiperProjects = new Swiper('.projects__swiper', {
+    loop: true,
+    spaceBetween: 24,
+    slidesPerView: "auto",
+    grabCursor: true,
+    speed: 600,
 
+    // If we need pagination
+    pagination: {
+        el: '.swiper-pagination',
+        clickable: true
+    },
+
+    autoplay: {
+        delay: 3000,
+        disableOnInteraction: false,
+    }
+});
 
 /*=============== WORK TABS ===============*/
 
