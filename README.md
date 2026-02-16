@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Anid
+<!-- # Responsive Portfolio Website Anid
 ## [Watch it on youtube](https://youtu.be/qxxanKFR7js)
 ### Responsive Portfolio Website Anid
 
@@ -14,4 +14,4 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
+![preview img](/preview.png) -->
