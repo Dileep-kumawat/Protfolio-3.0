@@ -1,7 +1,7 @@
 # 📌 Portfolio 3.0
 
 - **Live Site:** [https://dileep3.netlify.app/](https://dileep3.netlify.app/)
-- **Demo Video:** [https://youtu.be/nwEf0UGbIno](https://youtu.be/nwEf0UGbIno)
+- **Demo Video:** [https://youtu.be/Tdz2pNqrKo0](https://youtu.be/Tdz2pNqrKo0)
 - **Source Code:** [https://github.com/Dileep-kumawat/Portfolio-3.0.git](https://github.com/Dileep-kumawat/Portfolio-3.0.git)
 
 ---
@@ -107,7 +107,7 @@ This is deployed using **Netlify** - drag & drop or Git integration for continuo
 ## 📹 Demo
 
 Watch how it works:
-👉 [https://youtu.be/nwEf0UGbIno](https://youtu.be/nwEf0UGbIno)
+👉 [https://youtu.be/Tdz2pNqrKo0](https://youtu.be/Tdz2pNqrKo0)
 
 ---
 
